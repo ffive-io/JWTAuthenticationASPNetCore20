@@ -15,5 +15,7 @@ When you're developing a **RESTful API** for mobile applications or SPA, you hav
 ### Article
 
 [JWT Based Authentication Using ASP.Net Core 2.0 - Part 1](http://ffive.io/jwt-based-authentication-using-asp-net-core-2-0-part-1/ "JWT Based Authentication Using ASP.Net Core 2.0 - Part 1")
+
 [JWT Based Authentication Using ASP.Net Core 2.0 - Part 2](http://ffive.io/jwt-based-authentication-using-asp-net-core-2-0-part-2/ "JWT Based Authentication Using ASP.Net Core 2.0 - Part 2")
+
 [JWT Based Authentication Using ASP.Net Core 2.0 - Part 3](http://ffive.io/jwt-based-authentication-using-asp-net-core-2-0-part-3/ "JWT Based Authentication Using ASP.Net Core 2.0 - Part 3")
